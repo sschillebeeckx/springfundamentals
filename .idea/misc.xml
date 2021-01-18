@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch02hellospring/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03annotationsotherpackage/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03javaconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03xmlconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03importjavaconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03javaconfigcomponentscan/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03importxmlconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04beanscopes/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04qualifier/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04primary/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04profiles/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04conditional/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04runtimevalueinjection/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04spel/pom.xml" />
+        <option value="$PROJECT_DIR$/ch07datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/ch07jdbctemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/ch06aop/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05junithamcrest/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05mockito/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05jdbctest/pom.xml" />
+        <option value="$PROJECT_DIR$/ch08webbasic/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise11/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise12/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise21/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise22/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise31/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise32/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise33/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise34/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise41/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise51/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise52/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise53/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise63/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise64/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise65/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise71/pom.xml" />
+        <option value="$PROJECT_DIR$/exercise72/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

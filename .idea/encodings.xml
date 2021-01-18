@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ch02hellospring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch03annotations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch03annotationsotherpackage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch03importjavaconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch03importxmlconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch03javaconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch03javaconfigcomponentscan/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch03xmlconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04beanscopes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04conditionalonjava/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04conditonalonproperty/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04primary/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04profiles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04qualifier/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04runtimevalueinjection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04spel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch05jdbctest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch05junithamcrest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch05mockito/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch06aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch07datasource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch07jdbctemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch08webbasic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise11/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise12/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise21/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise22/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise31/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise32/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise33/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise34/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise51/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise52/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise53/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise63/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise64/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise65/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise65/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise71/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercise72/src/main/java" charset="UTF-8" />
+  </component>
+</project>

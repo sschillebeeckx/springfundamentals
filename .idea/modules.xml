@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch02hellospring/ch02hellospring.iml" filepath="$PROJECT_DIR$/ch02hellospring/ch02hellospring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03annotations/ch03annotations.iml" filepath="$PROJECT_DIR$/ch03annotations/ch03annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03annotationsotherpackage/ch03annotationsotherpackage.iml" filepath="$PROJECT_DIR$/ch03annotationsotherpackage/ch03annotationsotherpackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03importjavaconfig/ch03importjavaconfig.iml" filepath="$PROJECT_DIR$/ch03importjavaconfig/ch03importjavaconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03importxmlconfig/ch03importxmlconfig.iml" filepath="$PROJECT_DIR$/ch03importxmlconfig/ch03importxmlconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03javaconfig/ch03javaconfig.iml" filepath="$PROJECT_DIR$/ch03javaconfig/ch03javaconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03javaconfigcomponentscan/ch03javaconfigcomponentscan.iml" filepath="$PROJECT_DIR$/ch03javaconfigcomponentscan/ch03javaconfigcomponentscan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03xmlconfig/ch03xmlconfig.iml" filepath="$PROJECT_DIR$/ch03xmlconfig/ch03xmlconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04beanscopes/ch04beanscopes.iml" filepath="$PROJECT_DIR$/ch04beanscopes/ch04beanscopes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04conditonalonproperty/ch04conditonalonproperty.iml" filepath="$PROJECT_DIR$/ch04conditonalonproperty/ch04conditonalonproperty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04primary/ch04primary.iml" filepath="$PROJECT_DIR$/ch04primary/ch04primary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04profiles/ch04profiles.iml" filepath="$PROJECT_DIR$/ch04profiles/ch04profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04qualifier/ch04qualifier.iml" filepath="$PROJECT_DIR$/ch04qualifier/ch04qualifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04runtimevalueinjection/ch04runtimevalueinjection.iml" filepath="$PROJECT_DIR$/ch04runtimevalueinjection/ch04runtimevalueinjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04spel/ch04spel.iml" filepath="$PROJECT_DIR$/ch04spel/ch04spel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05jdbctest/ch05jdbctest.iml" filepath="$PROJECT_DIR$/ch05jdbctest/ch05jdbctest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05junithamcrest/ch05junithamcrest.iml" filepath="$PROJECT_DIR$/ch05junithamcrest/ch05junithamcrest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05mockito/ch05mockito.iml" filepath="$PROJECT_DIR$/ch05mockito/ch05mockito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06aop/ch06aop.iml" filepath="$PROJECT_DIR$/ch06aop/ch06aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07datasource/ch07datasource.iml" filepath="$PROJECT_DIR$/ch07datasource/ch07datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07jdbctemplate/ch07jdbctemplate.iml" filepath="$PROJECT_DIR$/ch07jdbctemplate/ch07jdbctemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08webbasic/ch08webbasic.iml" filepath="$PROJECT_DIR$/ch08webbasic/ch08webbasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise11/exercise11.iml" filepath="$PROJECT_DIR$/exercise11/exercise11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise12/exercise12.iml" filepath="$PROJECT_DIR$/exercise12/exercise12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise21/exercise21.iml" filepath="$PROJECT_DIR$/exercise21/exercise21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise22/exercise22.iml" filepath="$PROJECT_DIR$/exercise22/exercise22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise31/exercise31.iml" filepath="$PROJECT_DIR$/exercise31/exercise31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise32/exercise32.iml" filepath="$PROJECT_DIR$/exercise32/exercise32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise33/exercise33.iml" filepath="$PROJECT_DIR$/exercise33/exercise33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise34/exercise34.iml" filepath="$PROJECT_DIR$/exercise34/exercise34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise40/exercise40.iml" filepath="$PROJECT_DIR$/exercise40/exercise40.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise51/exercise51.iml" filepath="$PROJECT_DIR$/exercise51/exercise51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise52/exercise52.iml" filepath="$PROJECT_DIR$/exercise52/exercise52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise53/exercise53.iml" filepath="$PROJECT_DIR$/exercise53/exercise53.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise63/exercise63.iml" filepath="$PROJECT_DIR$/exercise63/exercise63.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise64/exercise64.iml" filepath="$PROJECT_DIR$/exercise64/exercise64.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise65/exercise65.iml" filepath="$PROJECT_DIR$/exercise65/exercise65.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise712/exercise712.iml" filepath="$PROJECT_DIR$/exercise712/exercise712.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise734/exercise734.iml" filepath="$PROJECT_DIR$/exercise734/exercise734.iml" />
+    </modules>
+  </component>
+</project>

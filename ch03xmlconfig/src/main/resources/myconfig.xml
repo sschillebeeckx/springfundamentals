@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="helloService" class="be.abis.ch03xmlconfig.service.AbisHelloService">
+        <property name="helloMessage" value="Welcome to Spring!" />
+    </bean>
+
+    <bean id="coffeeService" class="be.abis.ch03xmlconfig.service.AbisCoffeeService"
+          init-method="init" destroy-method="destroy"/>
+
+    <bean id="receptionService" class="be.abis.ch03xmlconfig.service.AbisReceptionService">
+        <property name="coffeeService" ref="coffeeService" />
+        <constructor-arg name="helloService" ref="helloService"/>
+    </bean>
+</beans>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch04primary" />
+        <module name="exercise33" />
+        <module name="ch04conditonalonproperty" />
+        <module name="ch06aop" />
+        <module name="exercise34" />
+        <module name="ch04beanscopes" />
+        <module name="exercise32" />
+        <module name="exercise31" />
+        <module name="ch07jdbctemplate" />
+        <module name="ch03annotationsotherpackage" />
+        <module name="ch07datasource" />
+        <module name="exercise53" />
+        <module name="exercise52" />
+        <module name="exercise51" />
+        <module name="ch04runtimevalueinjection" />
+        <module name="ch05junithamcrest" />
+        <module name="ch03importjavaconfig" />
+        <module name="ch03xmlconfig" />
+        <module name="exercise22" />
+        <module name="exercise21" />
+        <module name="exercise65" />
+        <module name="ch04qualifier" />
+        <module name="ch03importxmlconfig" />
+        <module name="exercise712" />
+        <module name="ch08webbasic" />
+        <module name="ch03javaconfigcomponentscan" />
+        <module name="exercise40" />
+        <module name="ch05jdbctest" />
+        <module name="ch05mockito" />
+        <module name="ch04spel" />
+        <module name="ch02hellospring" />
+        <module name="ch03javaconfig" />
+        <module name="ch03annotations" />
+        <module name="ch04profiles" />
+        <module name="exercise734" />
+        <module name="exercise12" />
+        <module name="exercise64" />
+        <module name="exercise63" />
+        <module name="exercise62" />
+        <module name="exercise11" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch02hellospring" target="1.8" />
+      <module name="ch03annotations" target="1.8" />
+      <module name="ch03annotationsotherpackage" target="1.8" />
+      <module name="ch03importjavaconfig" target="1.8" />
+      <module name="ch03importxmlconfig" target="1.8" />
+      <module name="ch03javaconfig" target="1.8" />
+      <module name="ch03javaconfigcomponentscan" target="1.8" />
+      <module name="ch03xmlconfig" target="1.8" />
+      <module name="ch04beanscopes" target="1.8" />
+      <module name="ch04conditionalonjava" target="1.8" />
+      <module name="ch04conditonalonproperty" target="11" />
+      <module name="ch04primary" target="1.8" />
+      <module name="ch04profiles" target="1.8" />
+      <module name="ch04qualifier" target="1.8" />
+      <module name="ch04runtimevalueinjection" target="1.8" />
+      <module name="ch04spel" target="11" />
+      <module name="ch05jdbctest" target="1.8" />
+      <module name="ch05junithamcrest" target="1.8" />
+      <module name="ch05mockenvironment" target="1.8" />
+      <module name="ch05mockito" target="11" />
+      <module name="ch06aop" target="11" />
+      <module name="ch07datasource" target="11" />
+      <module name="ch07jdbctemplate" target="11" />
+      <module name="ch08conversion" target="11" />
+      <module name="ch08forms" target="11" />
+      <module name="ch08i18n" target="1.8" />
+      <module name="ch08validation" target="11" />
+      <module name="ch08webbasic" target="1.8" />
+      <module name="exercise11" target="1.8" />
+      <module name="exercise12" target="1.8" />
+      <module name="exercise21" target="11" />
+      <module name="exercise22" target="1.8" />
+      <module name="exercise31" target="1.8" />
+      <module name="exercise32" target="11" />
+      <module name="exercise33" target="1.8" />
+      <module name="exercise34" target="11" />
+      <module name="exercise40" target="11" />
+      <module name="exercise51" target="1.8" />
+      <module name="exercise52" target="1.8" />
+      <module name="exercise53" target="1.8" />
+      <module name="exercise62" target="11" />
+      <module name="exercise63" target="1.8" />
+      <module name="exercise64" target="1.8" />
+      <module name="exercise65" target="1.8" />
+      <module name="exercise712" target="1.8" />
+      <module name="exercise73" target="1.8" />
+      <module name="exercise734" target="1.8" />
+      <module name="exercise75" target="11" />
+      <module name="exercise76" target="11" />
+      <module name="exercise77" target="11" />
+      <module name="exercise78" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ch02hellospring" options="-parameters" />
+      <module name="ch03annotations" options="-parameters" />
+      <module name="ch03annotationsotherpackage" options="-parameters" />
+      <module name="ch03importjavaconfig" options="-parameters" />
+      <module name="ch03importxmlconfig" options="-parameters" />
+      <module name="ch03javaconfig" options="-parameters" />
+      <module name="ch03javaconfigcomponentscan" options="-parameters" />
+      <module name="ch03xmlconfig" options="-parameters" />
+      <module name="ch04beanscopes" options="-parameters" />
+      <module name="ch04conditionalonjava" options="-parameters" />
+      <module name="ch04conditonalonproperty" options="-parameters" />
+      <module name="ch04primary" options="-parameters" />
+      <module name="ch04profiles" options="-parameters" />
+      <module name="ch04qualifier" options="-parameters" />
+      <module name="ch04runtimevalueinjection" options="-parameters" />
+      <module name="ch04spel" options="-parameters" />
+      <module name="ch05jdbctest" options="-parameters" />
+      <module name="ch05junithamcrest" options="-parameters" />
+      <module name="ch05mockenvironment" options="-parameters" />
+      <module name="ch05mockito" options="-parameters" />
+      <module name="ch06aop" options="-parameters" />
+      <module name="ch07datasource" options="-parameters" />
+      <module name="ch07jdbctemplate" options="-parameters" />
+      <module name="ch08conversion" options="-parameters" />
+      <module name="ch08forms" options="-parameters" />
+      <module name="ch08i18n" options="-parameters" />
+      <module name="ch08validation" options="-parameters" />
+      <module name="ch08webbasic" options="-parameters" />
+      <module name="exercise11" options="-parameters" />
+      <module name="exercise12" options="-parameters" />
+      <module name="exercise21" options="-parameters" />
+      <module name="exercise22" options="-parameters" />
+      <module name="exercise31" options="-parameters" />
+      <module name="exercise32" options="-parameters" />
+      <module name="exercise33" options="-parameters" />
+      <module name="exercise34" options="-parameters" />
+      <module name="exercise40" options="-parameters" />
+      <module name="exercise51" options="-parameters" />
+      <module name="exercise52" options="-parameters" />
+      <module name="exercise53" options="-parameters" />
+      <module name="exercise62" options="-parameters" />
+      <module name="exercise63" options="-parameters" />
+      <module name="exercise64" options="-parameters" />
+      <module name="exercise65" options="-parameters" />
+      <module name="exercise712" options="-parameters" />
+      <module name="exercise73" options="-parameters" />
+      <module name="exercise734" options="-parameters" />
+      <module name="exercise75" options="-parameters" />
+      <module name="exercise76" options="-parameters" />
+      <module name="exercise77" options="-parameters" />
+      <module name="exercise78" options="-parameters" />
+    </option>
+  </component>
+</project>
